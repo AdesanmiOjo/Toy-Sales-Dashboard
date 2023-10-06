@@ -24,3 +24,13 @@ The bar chart identifies the top 4 products in April 2020  with the highest reve
 The line chart illustrates revenue trends  over time.
 It shows that revenue generally increases over the months.
 There is a noticeable spike in revenue during the holiday season, suggesting the importance of holiday-specific promotions.
+
+**Conclusion**
+
+Toy Sales Dashboard provides valuable insights into toy sales performance. Key findings include consistent revenue growth, regional variations in sales, and the identification of top-performing products. These data-driven findings serve as essential inputs for informed decision-making, guiding the refinement of marketing strategies, it helped the company to manage inventory and also helps to to acheieve its revenue goal.
+
+**Recommendations**
+
+Regional Focus: Given the regional variations in sales, we can consider tailoring marketing efforts and product offerings to better align with the preferences of each region.
+
+Product Promotion: Invest more in promoting the top-performing products (Product X, Y, Z, W) to maximize revenue.
