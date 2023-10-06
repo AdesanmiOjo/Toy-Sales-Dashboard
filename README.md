@@ -2,11 +2,12 @@
 Power BI
 ## SUMMARY
 This report offers a comprehensive examination of toy sales data, utilizing the Toy Sales Dashboard constructed in Power BI. The dashboard comprises essential performance metrics, region and period slicers, bar charts illustrating weekly regional revenue and performance within each period, as well as a line chart depicting revenue trends in various regions over time. The aim is to extract valuable insights into toy sales patterns, pinpoint areas for enhancement, and formulate data-informed recommendations.
+
 ![Dashboard](https://github.com/AdesanmiOjo/Toy-Sales-Dashboard/commit/aa7ae61af9248e75a519fe2e10831c64d551fe3f)
-# Trends & Insight
-  # 1. Total Revenue
+- **Trends & Insight**
+   1. Total Revenue
 We have the total revenue generated from New York in April 2020 - $95.25k. We compared the total revenue to the previous month revenue - $41k. The positive revenue trend indicates overall growth in toy sales.
-  # 2.  Region Slicer:
+- *Region Slicer*:
 The dashboard allows us to filter data by region. This feature helps in analyzing regional variations in sales performance.
   # 3. Period Slicer:
 The period slicer enables us to select specific months and years for analysis. It facilitates the examination of sales trends over time.
