@@ -38,6 +38,6 @@ Seasonal Campaigns: We should plan and execute targeted marketing campaigns duri
    4. Customer Segmentation: Exploring customer data to identify different customer segments and tailoring marketing strategies to their specific needs and preferences.
    5. Data Monitoring: Continuously monitoring of the dashboard for real-time insights and adjusting strategies accordingly to stay competitive in the toy market.
 
-**Here is a link to interact with dashboard**
+**Here is a link to interact with the dashboard**
 
 https://app.powerbi.com/view?r=eyJrIjoiMjdkODM2ZGYtNzIzNS00MzIxLTlhN2UtNzMzYTY2ZjAwYjc2IiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9
